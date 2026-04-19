@@ -76,7 +76,7 @@ const presentationContent = [
     {
         id: "program",
         title: "El Programa de Capacitación",
-        content: "Un entrenamiento práctico en el campo de trabajo ('Gemba').",
+        content: "Un entrenamiento práctico en el campo de trabajo",
         points: [
             "Fase 1: Diagnóstico participativo con los trabajadores.",
             "Fase 2: Talleres teóricos-prácticos de Lean.",
@@ -100,7 +100,7 @@ const presentationContent = [
         title: "Próximos Pasos",
         subtitle: "¿Listos para transformar el tiempo en mineral?",
         content: "Iniciemos con un diagnóstico de 2 días en su operación para identificar el potencial de mejora.",
-        contact: "Contacto: [Tu Nombre/Agencia]"
+        contact: "Contacto: Dr. Jonatan Vignatti (j.vignatti.m@gmail.com)"
     }
 ];
 
