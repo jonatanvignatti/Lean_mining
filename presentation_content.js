@@ -11,10 +11,10 @@ const presentationContent = [
         title: "¿Por qué Gestión del Tiempo en Minería?",
         content: "En minería, cada minuto cuenta. El costo de la inactividad es crítico y los riesgos operativos aumentan con la desorganización.",
         points: [
-            "Altos costos fijos de maquinaria.",
-            "Ventanas limitadas para mantenimiento y voladuras.",
-            "Complejidad en los relevos de turno.",
-            "Impacto directo en la meta de producción diaria."
+            "Altos costos fijos de maquinaria y energía.",
+            "Ventanas limitadas para ventilación y voladuras.",
+            "Complejidad logística en túneles y galerías.",
+            "Impacto crítico de la seguridad en la continuidad operativa."
         ]
     },
     {
@@ -34,10 +34,10 @@ const presentationContent = [
         title: "Los 8 Desperdicios (Muda) en la Mina",
         content: "Identificar y eliminar lo que no agrega valor al mineral.",
         points: [
-            "**Esperas:** Camiones esperando en la pala o chancadora.",
-            "**Transporte:** Movimientos innecesarios de materiales o equipos.",
-            "**Sobre-procesamiento:** Tareas de mantenimiento redundantes.",
-            "**Talento no utilizado:** No escuchar ideas de mejora del operador."
+            "**Esperas:** Equipos LHD esperando en el frente o punto de carguío.",
+            "**Transporte:** Movimientos ineficientes entre galerías y niveles.",
+            "**Sobre-procesamiento:** Re-perforación o exceso de sostenimiento innecesario.",
+            "**Talento no utilizado:** No aprovechar la experiencia del minero en el frente."
         ]
     },
     {
@@ -79,10 +79,10 @@ const presentationContent = [
         title: "Deep Dive: Operaciones Mineras",
         content: "Optimizando cada fase de la extracción y beneficio.",
         points: [
-            "**Perforación y Voladura:** Control de fragmentación para optimizar el consumo de energía en chancado.",
-            "**Carguío y Transporte:** Análisis de 'Match Factor' para eliminar colas de camiones.",
-            "**Mantenimiento Predictivo:** Uso de Lean para reducir el MTTR en equipos críticos.",
-            "**Optimización de Planta:** Control de procesos para maximizar la recuperación de mineral."
+            "**Ciclo de Avance:** Optimización de perforación y voladura para maximizar el avance por disparo.",
+            "**Carguío LHD:** Análisis de tiempos de ciclo y distancias de acarreo en galerías.",
+            "**Ventilación y Servicios:** Reducción de tiempos de espera para evacuación de gases y humos.",
+            "**Sostenimiento:** Eficiencia en la colocación de pernos y mallas para garantizar la seguridad operativa."
         ]
     },
     {
