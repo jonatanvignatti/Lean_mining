@@ -130,9 +130,7 @@ const presentationContent = [
     },
     {
         id: "cta",
-        title: "Próximos Pasos",
-        subtitle: "¿Listos para transformar el tiempo en mineral?",
-        content: "Iniciemos con un diagnóstico de 2 días en su operación para identificar el potencial de mejora.",
+        content: "Al finalizar, recibirá una certificación con validez internacional y chilena.",
         contact: "Dr. Jonatan Vignatti (j.vignatti.m@gmail.com)"
     }
 ];
