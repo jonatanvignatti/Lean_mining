@@ -130,7 +130,8 @@ const presentationContent = [
     },
     {
         id: "cta",
-        content: "Al finalizar, recibirá una certificación con validez internacional y chilena.",
+        title: "Listos para transformar el tiempo en mineral?",
+        content: "Al finalizar, recibirá una certificación con validez internacional.",
         contact: "Dr. Jonatan Vignatti (j.vignatti.m@gmail.com)"
     }
 ];
